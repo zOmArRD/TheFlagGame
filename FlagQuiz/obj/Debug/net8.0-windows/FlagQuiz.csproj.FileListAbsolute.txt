@@ -1,0 +1,17 @@
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\bin\Debug\net8.0-windows\FlagQuiz.exe
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\bin\Debug\net8.0-windows\FlagQuiz.deps.json
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\bin\Debug\net8.0-windows\FlagQuiz.runtimeconfig.json
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\bin\Debug\net8.0-windows\FlagQuiz.dll
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\bin\Debug\net8.0-windows\FlagQuiz.pdb
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\obj\Debug\net8.0-windows\FlagQuiz.Form1.resources
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\obj\Debug\net8.0-windows\FlagQuiz.csproj.GenerateResource.cache
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\obj\Debug\net8.0-windows\FlagQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\obj\Debug\net8.0-windows\FlagQuiz.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\obj\Debug\net8.0-windows\FlagQuiz.AssemblyInfo.cs
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\obj\Debug\net8.0-windows\FlagQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\obj\Debug\net8.0-windows\FlagQuiz.dll
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\obj\Debug\net8.0-windows\refint\FlagQuiz.dll
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\obj\Debug\net8.0-windows\FlagQuiz.pdb
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\obj\Debug\net8.0-windows\FlagQuiz.genruntimeconfig.cache
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\obj\Debug\net8.0-windows\ref\FlagQuiz.dll
+C:\Users\Omar\source\repos\FlagQuiz\FlagQuiz\obj\Debug\net8.0-windows\FlagQuiz.Properties.Resources.resources
